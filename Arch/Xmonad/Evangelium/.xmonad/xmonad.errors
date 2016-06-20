@@ -1,0 +1,12 @@
+
+xmonad.hs:92:39: error:
+    • Couldn't match expected type ‘Query (Data.Monoid.Endo WindowSet)’
+                  with actual type ‘WorkspaceId -> ManageHook’
+    • Probable cause: ‘doShift’ is applied to too few arguments
+      In the second argument of ‘(-->)’, namely ‘doShift’
+      In the expression: className =? "Viewnior" --> doShift
+      In the first argument of ‘composeAll’, namely
+        ‘[className =? "Firefox" --> doShift (myWorkspace !! 2),
+          className =? "mpv" --> doFloat,
+          className =? "Oblogout" --> doFloat,
+          className =? "Viewnior" --> doShift, ....]’
