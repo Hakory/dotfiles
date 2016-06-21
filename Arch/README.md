@@ -17,8 +17,16 @@ Find the full [unlicense][] in the `UNLICENSE` file, but here's a snippet.
 Do what you want. Learn as much as you can. Unlicense more software.
  
 
+Screenshots 
+
+![Bspwm][screenshot]
+![Xmonad][screenshot1]
+![Dwm][screenshot2]
+
+
 [unlicense]: http://unlicense.org/
 [facebook]: https://www.facebook.com/Morgareth77
 [twitter]: https://twitter.com/Morgareth77
-
-
+[screenshot]: https://cdn.rawgit.com/Morgareth/dotfiles/master/Arch/Screenshots/13442254_1015912321818129_2846794945451042775_n.jpg?raw=true
+[screenshot1]:https://cdn.rawgit.com/Morgareth/dotfiles/master/Arch/Screenshots/2016-06-08-023700_1280x720_scrot.png?raw=true
+[screenshot2]:
