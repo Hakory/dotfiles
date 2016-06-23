@@ -52,7 +52,7 @@ urxvtd -q -o -f
 nitrogen --restore &
 compton --config ~/.config/compton.conf  &
 udiskie &
-
+unclutter &
 
 ##----------------------------------------------------------------------------##
 ## startx

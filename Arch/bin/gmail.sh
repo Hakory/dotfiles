@@ -1,8 +1,8 @@
 
 #!/bin/bash
 
-USER=thiagors1983@gmail.com
-PASS=Carol@Ana2408
+USER=
+PASS=
 
 COUNT=`curl -su $USER:$PASS https://mail.google.com/mail/feed/atom || echo "<ful
 lcount>unknown number of</fullcount>"`
