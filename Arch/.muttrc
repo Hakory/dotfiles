@@ -2,11 +2,11 @@
   #
   # Remember to replace USER, PASSWORD and NAME
 
-  set imap_user = "thiagors1983@gmail.com"
-  set imap_pass = "Carol@Ana2408"
-  set smtp_url  = "smtp://thiagors1983@smtp.gmail.com:587/"
-  set smtp_pass = "Carol@Ana2408"
-  set from      = "thiagors1983@gmail.com"
+  set imap_user = ""
+  set imap_pass = ""
+  set smtp_url  = "smtp://@smtp.gmail.com:587/"
+  set smtp_pass = ""
+  set from      = ""
   set realname  = "Thiago"
 
   set spoolfile = imaps://imap.gmail.com:993/INBOX
